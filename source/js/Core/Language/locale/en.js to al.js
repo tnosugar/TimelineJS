@@ -7,10 +7,10 @@
 	                     wikipedia: "sq"
 	              },
 	              date: {
-	                     month: ["Janar", "Shkurt", "Mars", "Prill", "Maj", "Qershor", "Korrik", "Gusht", "Shtator", "Tetor", "Nentor", "Dhjetor"],
-	                     month_abbr: ["Jan.", "Shk.", "Mar", "Pri", "Maj", "Qer", "Kor", "Gus.", "Shta.", "Tet.", "Nen.", "Dhj."],
-	                     day: ["E Diele","E Hene", "E Marte", "E Merkure", "E Enjte", "E Premte", "E Shtune"],
-	                     day_abbr: ["D.","H.", "M.", "M.", "E.", "P.", "SH."]
+	                     month: ["Janar", "Shkurt", "Mars", "Prill", "Maj", "Qershor", "Korrik", "Gusht", "Shtator", "Tetor", "Nëntor", "Dhjetor"],
+	                     month_abbr: ["Jan.", "Shku.", "Mars", "Prill", "Maj", "Qershor", "Korrik", "Gusht.", "Shtat.", "Tet.", "Nent.", "Dhjet."],
+	                     day: ["E Diel","E Hënë", "E Martë", "E Mërkurë", "E Enjte", "E Premte", "E shtunë"],
+	                     day_abbr: ["Diel.","Hën.", "Mart.", "Mërk.", "Enj.", "Prem.", "Shtu."]
 	              },
 	              dateformats: {
 	                     year: "yyyy",
@@ -25,13 +25,13 @@
 	                     full_long_small_date: "h:MM TT'<br/><small>mmm d',' yyyy'</small>'"
 	              },
 	              messages: {
-	                     loading_timeline: "Koha e ngarkimit... ",
-	                     return_to_title: "Kthehu te titulli",
-	                     expand_timeline: "Zgjero Koheshtritjen",
-	                     contract_timeline: "Ngushto koheshtrirjen",
-	                     wikipedia: "Nga Wikipedia, enciklopedia e lire",
-	                     loading_content: "Permbajtja duke u ngarkuar",
-	                     loading: "Duke u ngarkuar"
+	                     loading_timeline: "Prisni Kronologjinë... ",
+	                     return_to_title: "Kthehu te Titulli",
+	                     expand_timeline: "Zgjero Kronologjinë",
+	                     contract_timeline: "Tkurr Kronologjinë",
+	                     wikipedia: "Nga Wikipedia, enciklopedia falas",
+	                     loading_content: "Duke shfaqur përmajtjen",
+	                     loading: "Prisni"
 	              }
 	       }
 	}
